@@ -1,4 +1,4 @@
-package com.atlas.atlasrest.item;
+package com.atlas.menu.item;
 
 import org.springframework.data.map.repository.config.EnableMapRepositories;
 import org.springframework.data.repository.CrudRepository;
